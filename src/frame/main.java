@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author lynn
+ * @author lynn1
  */
 public class main extends javax.swing.JFrame {
 
